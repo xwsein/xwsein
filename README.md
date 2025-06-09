@@ -44,8 +44,7 @@ I thrive at the intersection of problem-solving and storytelling — turning raw
 ### 🛠️ Tech Stack
 
 **Languages & Tools:**  
-`Python` `C` `R` `Power BI` `Excel` `Pandas` `Scikit-learn` `Matplotlib`
-`Seaborn` `Pytorch` `PostgreSQL` `MongoDB` `Streamlit` `Git` `AWS` `Azure`
+`python`, `python-numpy`, `python-pandas`, `python-matplotlib`, `python-seaborn`, `python-scikit-learn`, `python-pytorch`, `python-tensorflow`, `python-flask`, `python-streamlit`, `python-fastapi`, `python-nltk`, `python-spacy`, `python-plotly`, `r`, `r-ggplot2`, `r-dplyr`, `r-tidyr`, `r-shiny`, `c`, `postgresql`, `mysql`, `sqlite`, `google-bigquery`, `power-bi`, `excel`, `git`, `github`, `gitlab`, `aws`, `azure`, `gcp`, `docker`, `mlflow`, `jupyter`, `apache-superset`, `mongodb`
 
 ---
 <div align="center">
