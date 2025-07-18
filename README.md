@@ -2,51 +2,62 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow Banner" width="100%"/>
 </div>
 
-<h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> </h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xwsain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="mailto:hire-hussein@proton.me" target="blank">
-    <img src="https://img.shields.io/badge/Email-hire--hussein@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=I'm+Hussein+Ali;Data+Analytics+%7C+ML+Engineer;Digital+Builder+%7C+Data+Ninja;Always+Learning+%7C+Always+Building" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Hussein Ali** — a passionate Computer Science graduate with hands-on experience in data analytics, machine learning, and dashboard development. I've worked across industries from healthcare to finance, using tools like Python, SQL, Excel, and Power BI to drive data-informed decisions.
+Hi, I'm **Hussein Ali** — a passionate Computer Science graduate with hands-on experience in data analytics, machine learning, and interactive dashboard development. I've contributed to projects across healthcare and finance, leveraging tools like Python, SQL, Power BI, and Excel to turn data into insight.
 
-I thrive at the intersection of problem-solving and storytelling — turning raw data into meaningful insight and action.
-
-<img align="right" alt="Code GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="480" height="300" />
+I thrive at the intersection of problem-solving and storytelling — transforming raw data into strategic decisions that make an impact.
 
 ---
 
 ### 🔍 Currently...
 
-- 🔭 **Working On:** Building a free, open-source platform offering data science explanations and courses  
-- 🌱 **Learning About:** Data Science & AI Engineering  
-- 👯 **Open To Collaborate On:** Data projects with real-world impact  
-- ⚡ **Fun Fact:** I never run a script twice without a schema validation 😄
+- 🔭 Building a free, open-source platform offering data science explanations and courses  
+- 🌱 Deepening knowledge in Data Science & AI Engineering  
+- 🤝 Open to collaboration on real-world data projects  
+- ⚡ Fun Fact: I dream in JSON sometimes. It’s weird, but structured.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Tools:**  
-`python`, `python-numpy`, `python-pandas`, `python-matplotlib`, `python-seaborn`, `python-scikit-learn`, `python-pytorch`, `python-tensorflow`, `python-flask`, `python-streamlit`, `python-fastapi`, `python-nltk`, `python-spacy`, `python-plotly`, `r`, `r-ggplot2`, `r-dplyr`, `r-tidyr`, `r-shiny`, `c`, `postgresql`, `mysql`, `sqlite`, `google-bigquery`, `power-bi`, `excel`, `git`, `github`, `gitlab`, `aws`, `azure`, `gcp`, `docker`, `mlflow`, `jupyter`, `apache-superset`, `mongodb`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Superset-D83A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0A1B2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XWSEIN&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XWSEIN&theme=react"/>
+</p>
+
+---
+
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Divider" />
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow Footer" width="100%"/>
